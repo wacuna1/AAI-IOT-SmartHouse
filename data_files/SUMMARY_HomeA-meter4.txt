@@ -1,0 +1,3 @@
+
+HomeA-meter4
+use [kW],gen [kW],KitchenDenLights [kW],MasterBedBathLights [kW],MasterOutlets [kW],DenOutdoorLights [kW],DenOutlets [kW],RearBasementLights [kW],KitchenOutletsEast [kW],KitchenOutletsSouth [kW],DishwasherDisposalSinkLight [kW],Refrigerator [kW],Microwave [kW],OfficeLights [kW]
